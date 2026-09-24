@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ezgif-5f39b114e47b26a1.gif" width="640" height="320" alt="header">
+<img width="100%" alt="header gif" src="https://raw.githubusercontent.com/resurrectedd/resurrectedd/main/ezgif-5f39b114e47b26a1.gif" />
 
 <br><br>
 
