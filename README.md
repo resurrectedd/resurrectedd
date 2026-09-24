@@ -92,7 +92,7 @@
 <h3>📊 GitHub Analytics</h3>
 
 <p align="center">
-  <a href="https://github.com/dresurrectedd">
+  <a href="https://github.com/resurrectedd">
     <img src="https://img.shields.io/badge/View%20my%20contribution%20graph-181717?style=for-the-badge&logo=github&logoColor=white" alt="contribution graph">
   </a>
 </p>
