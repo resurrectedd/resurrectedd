@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black">
@@ -89,14 +88,6 @@
 
 ---
 
-<h3>📈 Contribution Graph</h3>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=delayl&show_icons=true&theme=cobalt&hide_border=true&hide_title=true" width="100%" alt="stats" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=resurrectedd&icon=0&color=0">
+<img src="https://komarev.com/ghpvc/?username=resurrectedd&icon=0&color=58a6ff">
 
 </div>
