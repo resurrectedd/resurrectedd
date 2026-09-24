@@ -89,25 +89,19 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Analytics</h3>
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delayl&theme=github_dark" alt="stats" />
 
-<img height="180" src="https://streak-stats.demolab.com/?user=delayl&theme=cobalt&hide_border=true">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
-
-<br><br>
-
----
-
-<h3>🏆 Trophies</h3>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delayl&theme=github_dark" alt="languages" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=delayl&theme=cobalt&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delayl&theme=github_dark" alt="most commit language" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delayl&theme=github_dark&utcOffset=0" alt="productive time" />
 
 <br><br>
 
