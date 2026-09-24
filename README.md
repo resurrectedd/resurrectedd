@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/8e486fb7-0802-49d1-8feb-719dd067832c" />
+<img src="assets/banner.png" width="1200" alt="banner" />
 
 <br><br>
 
@@ -17,6 +17,10 @@
   <code>coding at 3am hits different</code>
 </p>
 
+<p>
+  Building reliable systems with clean code and scalable architecture.
+</p>
+
 <br>
 
 ---
@@ -27,9 +31,9 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="top" align="left">
 
-**Delay** — a full stack developer who builds things that actually work.
+**Delay** — a full stack developer focused on building things that actually work.
 
 I enjoy working across the stack, from backend APIs to frontend UI, and I care about clean code, fast iteration, and shipping.
 
@@ -40,11 +44,31 @@ My goal is simple: write code that lasts, build products people use, and keep ge
 </td>
 <td width="45%" valign="top">
 
-<img src="https://github.com/user-attachments/assets/55abbf79-405d-4770-af2b-7094f2484b48" width="100%" alt="about image" />
+<img src="assets/about.png" width="100%" alt="about image" />
 
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+<h3>🤝 Connect</h3>
+
+<br>
+
+<p>
+  <a href="https://github.com/delayl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 <br>
 
@@ -95,11 +119,11 @@ My goal is simple: write code that lasts, build products people use, and keep ge
 
 <br>
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false">
 
 <img height="180" src="https://streak-stats.demolab.com/?user=delayl&theme=cobalt&hide_border=true">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
 <br><br>
 
