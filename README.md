@@ -30,13 +30,11 @@
 <tr>
 <td width="55%" valign="top" align="left">
 
-**Delay** — a full stack developer focused on building things that actually work.
+**Me** — Started making Roblox scripts as a kid, just messing around. Somehow ended up learning way more than I ever planned to.
 
-I enjoy working across the stack, from backend APIs to frontend UI, and I care about clean code, fast iteration, and shipping.
+Now I just code for fun, personal stuff, whatever I feel like building.
 
-Currently learning **Rust** and sharpening my **systems design** skills while building tools that solve real problems.
-
-My goal is simple: write code that lasts, build products people use, and keep getting better at the craft.
+Fun fact: in high school I backdoored into the school wifi just to get the password.
 
 </td>
 <td width="45%" valign="top">
