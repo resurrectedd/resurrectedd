@@ -21,6 +21,35 @@
 
 ---
 
+<h3>🚀 About Me</h3>
+
+<br>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Delay** — a full stack developer who builds things that actually work.
+
+I enjoy working across the stack, from backend APIs to frontend UI, and I care about clean code, fast iteration, and shipping.
+
+Currently learning **Rust** and sharpening my **systems design** skills while building tools that solve real problems.
+
+My goal is simple: write code that lasts, build products people use, and keep getting better at the craft.
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/55abbf79-405d-4770-af2b-7094f2484b48" width="100%" alt="about image" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
 <h3>💻 Tech Stack</h3>
 
 <br>
@@ -76,8 +105,14 @@
 
 ---
 
+<h3>📈 Activity Graph</h3>
+
 <br>
 
-<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/55abbf79-405d-4770-af2b-7094f2484b48" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=delayl&theme=cobalt&hide_border=true&area=true" width="100%" alt="activity graph" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=delayl&icon=0&color=0">
 
 </div>
