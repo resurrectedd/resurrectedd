@@ -93,10 +93,10 @@
 
 <br>
 
-<img src="https://ghchart.rshah.org/58a6ff/delayl" width="100%" alt="contribution graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=delayl&show_icons=true&theme=cobalt&hide_border=true&hide_title=true" width="100%" alt="stats" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=delayl&icon=0&color=0">
+<img src="https://komarev.com/ghpvc/?username=resurrectedd&icon=0&color=0">
 
 </div>
