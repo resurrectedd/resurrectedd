@@ -17,7 +17,6 @@
   <code>coding at 3am hits different</code>
 </p>
 
-
 <br>
 
 ---
@@ -47,6 +46,7 @@
 
 <br>
 
+---
 
 <h3>💻 Tech Stack</h3>
 
@@ -99,15 +99,17 @@
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
+<br><br>
 
 ---
 
-<h3>📈 Activity Graph</h3>
+<h3>🏆 Trophies</h3>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=delayl&theme=cobalt&hide_border=true&area=true" width="100%" alt="activity graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=delayl&theme=cobalt&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=delayl&icon=0&color=0">
 
