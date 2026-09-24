@@ -86,8 +86,4 @@
 
 <br>
 
----
-
-<img src="https://komarev.com/ghpvc/?username=resurrectedd&icon=0&color=58a6ff">
-
 </div>
