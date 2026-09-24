@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white">
@@ -89,11 +89,14 @@
 
 ---
 
-<h3>📊 GitHub Analytics</h3>
+<h3>📈 Contribution Graph</h3>
 
-<p align="center">
-  <a href="https://github.com/resurrectedd">
-    <img src="https://img.shields.io/badge/View%20my%20contribution%20graph-181717?style=for-the-badge&logo=github&logoColor=white" alt="contribution graph">
-  </a>
-</p>
+<br>
+
+<img src="https://ghchart.rshah.org/58a6ff/delayl" width="100%" alt="contribution graph" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=delayl&icon=0&color=0">
+
 </div>
