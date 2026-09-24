@@ -3,9 +3,6 @@
 <img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/e74d6464-f66f-49d3-b62b-90771667e112" />
 
 
-
-
-
 <br><br>
 
 <h1>Hello world, I'm Delay</h1>
