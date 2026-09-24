@@ -108,7 +108,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=delayl&theme=cobalt&hide_border=true&area=true" width="100%" alt="activity graph" />
 
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=delayl&icon=0&color=0">
 
