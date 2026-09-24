@@ -43,7 +43,8 @@ My goal is simple: write code that lasts, build products people use, and keep ge
 </td>
 <td width="45%" valign="top">
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/22f3e6c0-0936-420e-82c3-7a23a853f8cc" />
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9401aede-4521-4aef-90e8-e738fad670b1" />
+
 
 
 </td>
