@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1200" height="400" alt="banner" src="https://github.com/user-attachments/assets/d58ce032-733b-48bd-9050-30abde50e43e" />
+<img src="assets/banner.png" width="1200" alt="banner">
 
 <br><br>
 
@@ -78,7 +78,7 @@
 
 <br>
 
-<img width="736" height="414" alt="bottom image" src="https://github.com/user-attachments/assets/5cf9188c-8917-4f67-b906-431d20b70046" />
+<img src="assets/bottom.png" width="736" alt="bottom">
 
 <br><br>
 
