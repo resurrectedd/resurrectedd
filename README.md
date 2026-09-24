@@ -43,7 +43,8 @@ My goal is simple: write code that lasts, build products people use, and keep ge
 </td>
 <td width="45%" valign="top">
 
-<img src="assets/about.png" width="100%" alt="about image" />
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/22f3e6c0-0936-420e-82c3-7a23a853f8cc" />
+
 
 </td>
 </tr>
@@ -51,27 +52,6 @@ My goal is simple: write code that lasts, build products people use, and keep ge
 
 <br>
 
----
-
-<h3>🤝 Connect</h3>
-
-<br>
-
-<p>
-  <a href="https://github.com/delayl">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<br>
-
----
 
 <h3>💻 Tech Stack</h3>
 
