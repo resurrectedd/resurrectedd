@@ -30,7 +30,7 @@
 <tr>
 <td width="55%" valign="top" align="left">
 
-**Me** — Started making Roblox scripts as a kid, just messing around. Somehow ended up learning way more than I ever planned to.
+**Me** —Started making Roblox scripts as a kid, just messing around. Then moved onto Discord troll and nuke bots — nothing serious, mostly just experimenting with code and seeing what I could pull off. Somehow ended up learning way more than I ever planned to.
 
 Now I just code for fun, personal stuff, whatever I feel like building.
 
