@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="600" height="336" alt="image" src="https://github.com/user-attachments/assets/87962842-f4b9-4419-8ab6-e26fc6a3582a" />
+<img width="734" height="244" alt="image" src="https://github.com/user-attachments/assets/b617daa5-0642-4056-b092-a2e2baf99d0c" />
+
 
 
 <br><br>
@@ -126,7 +127,6 @@ My goal is simple: write code that lasts, build products people use, and keep ge
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delayl&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
-<br><br>
 
 ---
 
