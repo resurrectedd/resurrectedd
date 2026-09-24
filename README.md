@@ -78,7 +78,6 @@
 
 <br>
 
-<img src="assets/bottom.png" width="736" alt="bottom">
 
 <br><br>
 
