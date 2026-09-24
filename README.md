@@ -19,9 +19,6 @@
   <code>coding at 3am hits different</code>
 </p>
 
-<p>
-  Building reliable systems with clean code and scalable architecture.
-</p>
 
 <br>
 
