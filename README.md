@@ -82,6 +82,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=delayl&icon=0&color=0">
+<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/55abbf79-405d-4770-af2b-7094f2484b48" />
+
 
 </div>
