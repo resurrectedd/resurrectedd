@@ -91,20 +91,9 @@
 
 <h3>📊 GitHub Analytics</h3>
 
-<br>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delayl&theme=github_dark" alt="stats" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delayl&theme=github_dark" alt="languages" />
-
-<br>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=delayl&theme=github_dark" alt="most commit language" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delayl&theme=github_dark&utcOffset=0" alt="productive time" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=delayl&icon=0&color=0">
-
+<p align="center">
+  <a href="https://github.com/dresurrectedd">
+    <img src="https://img.shields.io/badge/View%20my%20contribution%20graph-181717?style=for-the-badge&logo=github&logoColor=white" alt="contribution graph">
+  </a>
+</p>
 </div>
