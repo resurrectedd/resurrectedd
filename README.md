@@ -22,26 +22,24 @@
 
 ---
 
-<h3>🚀 About Me</h3>
+<h3 align="center">🚀 About Me</h3>
 
 <br>
 
 <table>
 <tr>
-<td width="55%" valign="top" align="left">
+<td width="55%" valign="middle" align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 15px; line-height: 1.7; padding: 20px;">
 
-**Me** —Started making Roblox scripts as a kid, just messing around. Then moved onto Discord troll and nuke bots — nothing serious, mostly just experimenting with code and seeing what I could pull off. Somehow ended up learning way more than I ever planned to.
+<p><strong>Me</strong> — Started making Roblox scripts as a kid, just messing around. Then moved onto Discord troll and nuke bots — nothing serious, mostly just experimenting with code and seeing what I could pull off. Somehow ended up learning way more than I ever planned to.</p>
 
-Now I just code for fun, personal stuff, whatever I feel like building.
+<p>Now I just code for fun, personal stuff, whatever I feel like building.</p>
 
-Fun fact: in high school I backdoored into the school wifi just to get the password.
+<p>Fun fact: in high school I backdoored into the school wifi just to get the password.</p>
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="middle" align="center">
 
 <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/9401aede-4521-4aef-90e8-e738fad670b1" />
-
-
 
 </td>
 </tr>
